@@ -16,9 +16,7 @@ $text = $item['caption']['text'];
 echo "<img src='".$url."' width='300px' height='200px'>";
 echo "<br />";
 echo $text;
-echo "<br />";
-echo "<br />";
+echo "<br /><br />";
    
 }
 ?>
-
